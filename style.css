@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.navbar-text{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.navbar-brand{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imgbut {
+    position: relative;
+    width: 100%;
+  }
+  
+  /* Make the image responsive */
+  .imgbut img {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
